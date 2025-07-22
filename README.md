@@ -12,6 +12,8 @@ WeatherTunes is a web app that plays mood-based Spotify playlists based on your 
 cd client
 npm install
 npm run dev
+
+
 Live Demo
 https://your-deployed-url.netlify.app
 
