@@ -6,7 +6,7 @@ WeatherTunes is a web application that combines real-time weather data with cura
 
 ## 🌐 Live Demo
 
-Check it out here: [https://aesthetic-pothos-22e73a.netlify.app/](https://aesthetic-pothos-22e73a.netlify.app/)
+Check it out here: [https://weather-tunes-dj39.onrender.com/](https://weather-tunes-dj39.onrender.com/)
 
 ---
 
